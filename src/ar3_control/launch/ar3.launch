@@ -1,0 +1,7 @@
+<launch>
+
+  <include file="$(find ar3_gazebo)/launch/ar3_gazebo_bringup.launch" />
+
+  <include file="$(find ar3_moveit_config)/launch/ar3_moveit_bringup_demo.launch" />
+        
+</launch>

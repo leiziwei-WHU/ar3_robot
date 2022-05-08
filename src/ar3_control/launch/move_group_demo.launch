@@ -1,0 +1,5 @@
+<launch>
+  <!-- <node name="move_group_demo_node" pkg="ar3_control" type="move_group_demo" respawn="false" output="screen"></node> -->
+  <!-- <node name="move2object" pkg="ar3_control" type="move2object" respawn="false" output="screen" /> -->
+  <node name="move_demo" pkg="ar3_control" type="move_demo.py" respawn="false" output="screen" />
+</launch>

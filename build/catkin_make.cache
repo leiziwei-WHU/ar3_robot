@@ -1,0 +1,2 @@
+ar3_control:ar3_description:ar3_gazebo:ar3_moveit_config
+-DCATKIN_DEVEL_PREFIX=/home/lzw/arm_catch/devel -DCMAKE_INSTALL_PREFIX=/home/lzw/arm_catch/install -G Unix Makefiles

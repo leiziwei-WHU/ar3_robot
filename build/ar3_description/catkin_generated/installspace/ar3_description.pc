@@ -1,0 +1,8 @@
+prefix=/home/lzw/arm_catch/install
+
+Name: ar3_description
+Description: Description of ar3_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

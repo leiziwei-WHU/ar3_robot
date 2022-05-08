@@ -1,0 +1,8 @@
+prefix=/home/lzw/arm_catch/install
+
+Name: ar3_moveit_config
+Description: Description of ar3_moveit_config
+Version: 2.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
